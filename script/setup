@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+set -e
+
+LAUNCHBAR_ACTIONS_DIR="$HOME/Library/Application Support/LaunchBar/Actions"
+
+for f in sonos*.lbaction
+do
+  FILENAME=$(basename $f)
+  SOURCE_PATH=$(pwd)/$f
+  TARGET_PATH=$LAUNCHBAR_ACTIONS_DIR/$FILENAME
+
+  echo "Symlinking '"$FILENAME"' into LaunchBar Actions directory"
+
+  ln -sFn $SOURCE_PATH "$TARGET_PATH"
+done
