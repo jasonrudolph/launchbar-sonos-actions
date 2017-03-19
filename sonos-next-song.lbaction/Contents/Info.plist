@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>next-song.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jasonrudolph.LaunchBar.action.SonosNextSong</string>
+	<key>CFBundleName</key>
+	<string>Sonos - Next Song</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Jason Rudolph</string>
+		<key>LBRequirements</key>
+		<string>Sonos Controller for Mac v7.1</string>
+		<key>LBSummary</key>
+		<string>Skip to the next song in the macOS Sonos app</string>
+		<key>LBTwitter</key>
+		<string>@jasonrudolph</string>
+		<key>LBWebsiteURL</key>
+		<string>http://jasonrudolph.com</string>
+	</dict>
+	<key>LBRequiredApplication</key>
+	<string>com.sonos.macController</string>
+	<key>LBRequirements</key>
+	<string>Sonos Controller for Mac v7.1</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
