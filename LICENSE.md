@@ -1,6 +1,6 @@
 # Icons - CC BY 3.0
 
-Icons made by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver) at [flaticon.com/packs/essential-set-2]( from the [Essential Set](http://www.flaticon.com/packs/essential-set-2) are used under a [CC BY  3.0](http://creativecommons.org/licenses/by/3.0/) license.
+Icons made by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver) at [flaticon.com/packs/essential-set-2](http://www.flaticon.com/packs/essential-set-2) are used under a [CC BY  3.0](http://creativecommons.org/licenses/by/3.0/) license.
 
 # Source Code - MIT License
 
