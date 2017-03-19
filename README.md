@@ -31,7 +31,7 @@ Shout-out to [@mlinzner](https://github.com/mlinzner)'s [LaunchBar actions for S
 
 ### TODO
 
-- [ ] Add action for skipping to the next song
+- [ ] Add action for skipping to the next song (xref: [b551555](https://github.com/jasonrudolph/launchbar-sonos-actions/commit/b55155527023788cebb642c7b8f126d1c6273e89))
 
 [launchbar]: https://www.obdev.at/products/launchbar
 [mlinzner-launchbar-for-spotify]: https://github.com/mlinzner/LaunchBarActions/tree/9660d54a6bec1ef6138f5f3440f7a35966c5e67a/actions/Control%20Spotify
