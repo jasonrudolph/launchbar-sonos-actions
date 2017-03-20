@@ -27,7 +27,7 @@ cd launchbar-sonos-actions
 
 If you'd rather not do that, you can [download this repository as a zip file][zip], unzip it, and then double-click each individual action to install it.
 
-Because these actions have to use AppleScript to control the Sonos GUI, the first time you trigger one of these actions via LaunchBar, macOS will prompt you to authorize the LaunchBar AppleScript Runner to run as an assistive device [[screenshot](https://cloud.githubusercontent.com/assets/2988/24083596/5ae7a73e-0cb0-11e7-8819-6e89f1c0220a.png)].
+📣 👋 Because these actions have to use AppleScript to control the Sonos GUI, the first time you trigger one of these actions via LaunchBar, macOS will prompt you to authorize the LaunchBar AppleScript Runner to run as an assistive device [[screenshot](https://cloud.githubusercontent.com/assets/2988/24083596/5ae7a73e-0cb0-11e7-8819-6e89f1c0220a.png)].
 
 ### Shout-outs
 
