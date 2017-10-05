@@ -13,7 +13,7 @@ A few [LaunchBar][] actions for controlling your Sonos system:
 
 Download and install [Sonos Controller for Mac](http://www.sonos.com/en-us/controller-app) from sonos.com.
 
-These actions are developed to work with Sonos Controller for Mac **v7.4**. Because the Sonos app doesn't officially support scripting via AppleScript, we have to resort to fragile GUI scripting. 🙈 Future changes to the Sonos app may break these actions. 😱
+These actions are developed to work with Sonos Controller for Mac **v8.0**. Because the Sonos app doesn't officially support scripting via AppleScript, we have to resort to fragile GUI scripting. 🙈 Future changes to the Sonos app may break these actions. 😱
 
 ### Installation
 
